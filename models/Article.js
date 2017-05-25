@@ -27,3 +27,5 @@ var Article = mongoose.model("Article", ArticleSchema);
 
 // Export the model
 module.exports = Article;
+
+// mongodb://heroku_rx0fx634:n1qa9e4ol4bfdok2bn1mq4tt0d@ds151431.mlab.com:51431/heroku_rx0fx634
